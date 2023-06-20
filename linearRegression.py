@@ -54,8 +54,3 @@ pyplot.scatter(data[p],data["G3"])  # creates a scatterplot with the independent
 pyplot.xlabel(p)    # creates a label for the x axis based on independent value
 pyplot.ylabel("Final Grade")    # creates a label "Final Grade" for the dependent value
 pyplot.show()   # shows scatterplot
-
-
-
-
-
